@@ -1,0 +1,19 @@
+body{
+    background-image: url(/bio.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+a{
+    color: rgb(76, 0, 255);
+    text-decoration: none;
+    margin-top: 10px;
+    margin: 10px;
+    height: 30px;
+    width: 30px;
+    font-size: 2em;
+}
+h1{
+    text-align: center;
+    color: azure;
+    font-size: 10em;
+}
